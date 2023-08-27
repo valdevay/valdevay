@@ -6,8 +6,13 @@
 ### <div align="center">Vladimir Kireev, I am beginner coder</div>  
   
 
-I plan:  
-  
+I plan of Wolrd Domination:
+
+  / School Math
+  / Git Hub
+  / Python Basic
+  / Hight Math
+  / Thirst Project Code
 
 <br/>  
 
