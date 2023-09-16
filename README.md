@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">Vladimir Kireev, I am beginner coder</div>  
+### <div align="center">Vladimir Kireev, I am learning Mathr</div>  
   
 
 I plan of Wolrd Domination for the close time:
