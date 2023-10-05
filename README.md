@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">Vladimir Kireev, I am learning Mathr</div>  
+### <div align="center">Vladimir Kireev, I am learning Math</div>  
   
 
 I plan of Wolrd Domination for the close time:
